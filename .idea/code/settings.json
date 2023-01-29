@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.enabled": true,
+    "explorer.confirmDelete": false,
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "breadcrumbs.enabled": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontFamily": "Dank Mono, Hack, Menlo, Monaco, monospace",
+    "terminal.external.osxExec": "iTerm.app",
+    "editor.fontSize": 16,
+    "security.workspace.trust.untrustedFiles": "open"
+}
